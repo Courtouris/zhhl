@@ -5,6 +5,7 @@ import android.view.View
 import com.blankj.utilcode.util.ToastUtils
 import com.zhhl.eas.R
 import com.zhhl.eas.databinding.ActivityMainBinding
+import com.zhhl.eas.glide.GlideApp
 import com.zhhl.library_frame.http.HttpDTO
 import com.zhhl.library_frame.http.IRetrofitListener
 import com.zhhl.library_frame.mvvm.ViewModelImpl
